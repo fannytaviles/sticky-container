@@ -1,5 +1,5 @@
 import React from 'react';
-import Sticking from 'sticky-container';
+import Sticking from 'sticky-container-reactjs';
 
 var TestSticky = React.createClass({
   render() {
